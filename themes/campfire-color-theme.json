@@ -2,19 +2,18 @@
 	"name": "Campfire",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#191919",
+		"editor.background": "#19191f",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#930523",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"statusBar.background": "#0e572e",
-		"tab.inactiveBackground": "#1f1f1f",
-		"sideBar.background": "#191919",
-		"menu.separatorBackground": "#ff0000",
+		"tab.inactiveBackground": "#1f1f26",
+		"sideBar.background": "#19191f",
 		"scrollbarSlider.hoverBackground": "#3f3e3e",
-		"menu.background": "#191919",
-		"activityBar.background": "#191919",
-		"activityBar.activeBackground": "#191919",
-		"sideBarSectionHeader.background": "#1f1f1f"
+		"menu.background": "#19191f",
+		"activityBar.background": "#19191f",
+		"activityBar.activeBackground": "#19191f",
+		"sideBarSectionHeader.background": "#1f1f26"
 	},
 	"tokenColors": [
 		{

@@ -4,10 +4,14 @@
 	"colors": {
 		"editor.background": "#19191f",
 		"editor.foreground": "#eeffff",
+		"editorGroupHeader.tabsBackground": "#1f1f26",
 		"activityBarBadge.background": "#930523",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"statusBar.background": "#0e572e",
 		"tab.inactiveBackground": "#1f1f26",
+		"titleBar.activeBackground": "#19191f",
+		"minimap.background": "#1f1f26",
+		"editor.selectionBackground": "#d3963a2c",
 		"sideBar.background": "#19191f",
 		"scrollbarSlider.hoverBackground": "#3f3e3e",
 		"menu.background": "#19191f",
@@ -30,6 +34,7 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"variable.other.readwrite.alias",
 				"string constant.other.placeholder"
 			],
 			"settings": {
@@ -64,7 +69,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ee4760"
+				"foreground": "#f14862"
 			}
 		},
 		{
@@ -81,7 +86,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ee4760"
+				"foreground": "#f14862"
 			}
 		},
 		{
@@ -120,12 +125,13 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#e76750"
+				"foreground": "#f87760"
 			}
 		},
 		{
 			"name": "Block Level Variables",
 			"scope": [
+				"source.python",
 				"punctuation",
 				"meta.block.variable.other",
 				"meta.object-literal.key"
@@ -149,10 +155,11 @@
 			"scope": [
 				"support.other.variable",
 				"string.other.link",
-				"variable.parameter"
+				"variable.parameter",
+				"variable.other.readwrite"
 			],
 			"settings": {
-				"foreground": "#b6b6b6"
+				"foreground": "#afafaf"
 			}
 		},
 		{
@@ -197,7 +204,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#92b69e"
+				"foreground": "#79c091"
 			}
 		},
 		{

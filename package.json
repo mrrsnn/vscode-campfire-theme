@@ -1,0 +1,21 @@
+{
+    "name": "campfire-theme",
+    "displayName": "campfire-theme",
+    "description": "A lush, warm, and smoky theme optimized for TypeScript, React.js, and Node.js.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Campfire",
+                "uiTheme": "vs-dark",
+                "path": "./themes/campfire-color-theme.json"
+            }
+        ]
+    }
+}

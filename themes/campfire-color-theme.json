@@ -17,7 +17,11 @@
 		"menu.background": "#19191f",
 		"activityBar.background": "#19191f",
 		"activityBar.activeBackground": "#19191f",
-		"sideBarSectionHeader.background": "#1f1f26"
+		"sideBarSectionHeader.background": "#1f1f26",
+		"quickInput.background": "#19191f",
+		"quickInputList.focusBackground": "#f14862",
+		"list.activeSelectionBackground": "#f14862",
+		"list.focusOutline": "#f14862"
 	},
 	"tokenColors": [
 		{
@@ -108,7 +112,9 @@
 				"punctuation.definition.tag.end",
 				"meta.jsx.children",
 				"punctuation.section.embedded.begin",
-				"punctuation.section.embedded.end"
+				"punctuation.section.embedded.end",
+				"meta.brace.round",
+				"meta.brace.square"
 			],
 			"settings": {
 				"foreground": "#f1f1f1"

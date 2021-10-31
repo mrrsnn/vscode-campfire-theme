@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "campfire"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# VS Code Campfire Syntax Theme
+A lush, warm, and smoky theme optimized for TypeScript, React.js, and Node.js
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Minimal dark theme simply initialized with `yo code`. [Read more here](https://vscode.readthedocs.io/en/latest/extensions/yocode/)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## React.js Function Component Example
+![react-js-screenshot](https://github.com/NicholasMorrison/vscode-campfire-theme/blob/main/screenshots/react-js-screenshot.png?raw=true)
 
-**Enjoy!**
+## JSX Tree Example
+![jsx-screenshot](https://github.com/NicholasMorrison/vscode-campfire-theme/blob/main/screenshots/jsx-screenshot.png)
+

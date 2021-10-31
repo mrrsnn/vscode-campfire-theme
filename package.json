@@ -1,6 +1,14 @@
 {
     "name": "campfire-theme",
     "displayName": "campfire-theme",
+    "publisher": "NicholasMorrison",
+    "keywords": [
+        "campfire",
+        "dark",
+        "theme",
+        "dark theme",
+        "campfire theme"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/NicholasMorrison/vscode-campfire-theme.git"

@@ -497,7 +497,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#afafaf"
 			}
 		},
 		{
@@ -506,7 +506,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#afafaf"
 			}
 		},
 		{
@@ -515,7 +515,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#afafaf"
 			}
 		},
 		{
@@ -526,7 +526,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f14862"
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ffffff"
+				"foreground": "#f14862"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#ffffff"
+				"foreground": "#f14862"
 			}
 		},
 		{
@@ -562,7 +562,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#ffffff"
+				"foreground": "#f14862"
 			}
 		},
 		{
@@ -572,7 +572,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#ffffff"
+				"foreground": "#f87760"
 			}
 		},
 		{
@@ -581,7 +581,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#79c091"
 			}
 		},
 		{
@@ -596,10 +596,11 @@
 		{
 			"name": "Markdown - Link",
 			"scope": [
-				"string.other.link.title.markdown"
+				"string.other.link.title.markdown",
+				"string.other.link.description.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f1f1f1"
 			}
 		},
 		{
@@ -608,7 +609,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f1f1f1"
 			}
 		},
 		{
@@ -617,16 +618,18 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f14862"
 			}
 		},
 		{
 			"name": "Markup - Raw Block",
 			"scope": [
-				"markup.raw.block"
+				"markup.raw.block",
+				"markup.inline.raw.string.markdown",
+				"punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#79c091"
 			}
 		},
 		{
@@ -655,7 +658,17 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#afafaf"
+			}
+		},
+		{
+			"name": "Markdown - Section starting punctuation",
+			"scope": [
+				"punctuation.definition.string.begin.markdown",
+				"punctuation.definition.string.end.markdown"
+			],
+			"settings": {
+				"foreground": "#f14862",
 			}
 		},
 		{
@@ -664,7 +677,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#afafaf"
 			}
 		},
 		{
@@ -674,7 +687,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#ffffff"
+				"foreground": "#f14862"
 			}
 		},
 		{
@@ -683,7 +696,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#afafaf"
 			}
 		}
 	]

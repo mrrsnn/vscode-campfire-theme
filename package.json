@@ -1,6 +1,10 @@
 {
     "name": "campfire-theme",
     "displayName": "campfire-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NicholasMorrison/vscode-campfire-theme.git"
+    },
     "description": "A lush, warm, and smoky theme optimized for TypeScript, React.js, and Node.js.",
     "version": "1.0.0",
     "engines": {

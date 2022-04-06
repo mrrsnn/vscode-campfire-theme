@@ -11,3 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial syntax highlighting with smoking theme of gray, white, red, orange, and green
 - Main support with javascript, typescript, html, markdown, and python
+
+
+## [1.0.1] - 2022-04-06
+### Added
+- New logo
+- JSX Screenshot in description

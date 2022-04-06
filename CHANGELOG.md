@@ -17,3 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - New logo
 - JSX Screenshot in description
+
+## [1.0.2] - 2022-04-06
+### Edited
+- Logo
